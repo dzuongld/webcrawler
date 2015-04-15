@@ -1,0 +1,781 @@
+BaseUrl: https://www.cs.purdue.edu/
+FoundRel: index.html
+AbsURL: https://www.cs.purdue.edu/index.html
+
+BaseUrl: https://www.cs.purdue.edu/index.html
+FoundRel: news/index.html
+AbsURL: https://www.cs.purdue.edu/news/index.html
+
+BaseUrl: https://www.cs.purdue.edu/news/index.html
+FoundRel: ../alumni/keep-in-touch.html
+AbsURL: https://www.cs.purdue.edu/alumni/keep-in-touch.html
+
+BaseUrl: https://www.cs.purdue.edu/alumni/keep-in-touch.html
+FoundRel: ../about/index.html
+AbsURL: https://www.cs.purdue.edu/about/index.html
+
+BaseUrl: https://www.cs.purdue.edu/about/index.html
+FoundRel: welcome.html
+AbsURL: https://www.cs.purdue.edu/about/welcome.html
+
+BaseUrl: https://www.cs.purdue.edu/about/welcome.html
+FoundRel: conte_lecture.html
+AbsURL: https://www.cs.purdue.edu/about/conte_lecture.html
+
+BaseUrl: https://www.cs.purdue.edu/about/conte_lecture.html
+FoundRel: annual_reports.html
+AbsURL: https://www.cs.purdue.edu/about/annual_reports.html
+
+BaseUrl: https://www.cs.purdue.edu/about/annual_reports.html
+FoundRel: awards.html
+AbsURL: https://www.cs.purdue.edu/about/awards.html
+
+BaseUrl: https://www.cs.purdue.edu/about/awards.html
+FoundRel: diversity.html
+AbsURL: https://www.cs.purdue.edu/about/diversity.html
+
+BaseUrl: https://www.cs.purdue.edu/about/diversity.html
+FoundRel: phds.html
+AbsURL: https://www.cs.purdue.edu/about/phds.html
+
+BaseUrl: https://www.cs.purdue.edu/about/phds.html
+FoundRel: contact_us.html
+AbsURL: https://www.cs.purdue.edu/about/contact_us.html
+
+BaseUrl: https://www.cs.purdue.edu/about/contact_us.html
+FoundRel: ../calendar/index.html
+AbsURL: https://www.cs.purdue.edu/calendar/index.html
+
+BaseUrl: https://www.cs.purdue.edu/calendar/index.html
+FoundRel: ../people/index.html
+AbsURL: https://www.cs.purdue.edu/people/index.html
+
+BaseUrl: https://www.cs.purdue.edu/people/index.html
+FoundRel: faculty/index.html
+AbsURL: https://www.cs.purdue.edu/people/faculty/index.html
+
+BaseUrl: https://www.cs.purdue.edu/people/faculty/index.html
+FoundRel: ../awards/index.html
+AbsURL: https://www.cs.purdue.edu/people/awards/index.html
+
+BaseUrl: https://www.cs.purdue.edu/people/awards/index.html
+FoundRel: ../staff/index.html
+AbsURL: https://www.cs.purdue.edu/people/staff/index.html
+
+BaseUrl: https://www.cs.purdue.edu/people/staff/index.html
+FoundRel: ../graduate-students/index.html
+AbsURL: https://www.cs.purdue.edu/people/graduate-students/index.html
+
+BaseUrl: https://www.cs.purdue.edu/people/graduate-students/index.html
+FoundRel: ../student_organizations.html
+AbsURL: https://www.cs.purdue.edu/people/student_organizations.html
+
+BaseUrl: https://www.cs.purdue.edu/people/student_organizations.html
+FoundRel: printable_faculty_staff_directory.html
+AbsURL: https://www.cs.purdue.edu/people/printable_faculty_staff_directory.html
+
+BaseUrl: https://www.cs.purdue.edu/people/printable_faculty_staff_directory.html
+FoundRel: ../academic-programs/index.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/index.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/index.html
+FoundRel: ../future-students/index.html
+AbsURL: https://www.cs.purdue.edu/future-students/index.html
+
+BaseUrl: https://www.cs.purdue.edu/future-students/index.html
+FoundRel: ../undergraduate/index.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/index.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/index.html
+FoundRel: ../graduate/index.html
+AbsURL: https://www.cs.purdue.edu/graduate/index.html
+
+BaseUrl: https://www.cs.purdue.edu/graduate/index.html
+FoundRel: ../academic-programs/courses/index.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/index.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/index.html
+FoundRel: ../../study_abroad/index.html
+AbsURL: https://www.cs.purdue.edu/study_abroad/index.html
+
+BaseUrl: https://www.cs.purdue.edu/study_abroad/index.html
+FoundRel: ../research/index.html
+AbsURL: https://www.cs.purdue.edu/research/index.html
+
+BaseUrl: https://www.cs.purdue.edu/research/index.html
+FoundRel: centers.html
+AbsURL: https://www.cs.purdue.edu/research/centers.html
+
+BaseUrl: https://www.cs.purdue.edu/research/centers.html
+FoundRel: funding.html
+AbsURL: https://www.cs.purdue.edu/research/funding.html
+
+BaseUrl: https://www.cs.purdue.edu/research/funding.html
+FoundRel: seminars.html
+AbsURL: https://www.cs.purdue.edu/research/seminars.html
+
+BaseUrl: https://www.cs.purdue.edu/research/seminars.html
+FoundRel: ../alumni/index.html
+AbsURL: https://www.cs.purdue.edu/alumni/index.html
+
+BaseUrl: https://www.cs.purdue.edu/alumni/index.html
+FoundRel: distinguished-alumnus.html
+AbsURL: https://www.cs.purdue.edu/alumni/distinguished-alumnus.html
+
+BaseUrl: https://www.cs.purdue.edu/alumni/distinguished-alumnus.html
+FoundRel: past-distinguished-alumni.html
+AbsURL: https://www.cs.purdue.edu/alumni/past-distinguished-alumni.html
+
+BaseUrl: https://www.cs.purdue.edu/alumni/past-distinguished-alumni.html
+FoundRel: outstanding-alumni.html
+AbsURL: https://www.cs.purdue.edu/alumni/outstanding-alumni.html
+
+BaseUrl: https://www.cs.purdue.edu/alumni/outstanding-alumni.html
+FoundRel: past-outstanding-alumni.html
+AbsURL: https://www.cs.purdue.edu/alumni/past-outstanding-alumni.html
+
+BaseUrl: https://www.cs.purdue.edu/alumni/past-outstanding-alumni.html
+FoundRel: ../corporate/opportunity_update.html
+AbsURL: https://www.cs.purdue.edu/corporate/opportunity_update.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/opportunity_update.html
+FoundRel: ../about/phds_by_year.html
+AbsURL: https://www.cs.purdue.edu/about/phds_by_year.html
+
+BaseUrl: https://www.cs.purdue.edu/about/phds_by_year.html
+FoundRel: ../resources/lawson.html
+AbsURL: https://www.cs.purdue.edu/resources/lawson.html
+
+BaseUrl: https://www.cs.purdue.edu/resources/lawson.html
+FoundRel: ../outreach/index.html
+AbsURL: https://www.cs.purdue.edu/outreach/index.html
+
+BaseUrl: https://www.cs.purdue.edu/outreach/index.html
+FoundRel: contact-us.html
+AbsURL: https://www.cs.purdue.edu/outreach/contact-us.html
+
+BaseUrl: https://www.cs.purdue.edu/outreach/contact-us.html
+FoundRel: adventures-in-cs.html
+AbsURL: https://www.cs.purdue.edu/outreach/adventures-in-cs.html
+
+BaseUrl: https://www.cs.purdue.edu/outreach/adventures-in-cs.html
+FoundRel: ../corporate/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/index.html
+FoundRel: programs.html
+AbsURL: https://www.cs.purdue.edu/corporate/programs.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/programs.html
+FoundRel: partners/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/partners/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/partners/index.html
+FoundRel: ../recruiter-information/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/recruiter-information/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/recruiter-information/index.html
+FoundRel: ../announcements/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/announcements/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/announcements/index.html
+FoundRel: ../employment/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/employment/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/employment/index.html
+FoundRel: ../events/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/events/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/events/index.html
+FoundRel: ../internships/index.html
+AbsURL: https://www.cs.purdue.edu/corporate/internships/index.html
+
+BaseUrl: https://www.cs.purdue.edu/corporate/internships/index.html
+FoundRel: ../../resources/index.html
+AbsURL: https://www.cs.purdue.edu/resources/index.html
+
+BaseUrl: https://www.cs.purdue.edu/resources/index.html
+FoundRel: ../busoffice/index.html
+AbsURL: https://www.cs.purdue.edu/busoffice/index.html
+
+BaseUrl: https://www.cs.purdue.edu/busoffice/index.html
+FoundRel: ../resources/facilities/index.html
+AbsURL: https://www.cs.purdue.edu/resources/facilities/index.html
+
+BaseUrl: https://www.cs.purdue.edu/resources/facilities/index.html
+FoundRel: ../building_emergency_plan.html
+AbsURL: https://www.cs.purdue.edu/resources/building_emergency_plan.html
+
+BaseUrl: https://www.cs.purdue.edu/resources/building_emergency_plan.html
+FoundRel: policies.html
+AbsURL: https://www.cs.purdue.edu/resources/policies.html
+
+BaseUrl: https://www.cs.purdue.edu/resources/policies.html
+FoundRel: ../about/strategic-plan.html
+AbsURL: https://www.cs.purdue.edu/about/strategic-plan.html
+
+BaseUrl: https://www.cs.purdue.edu/about/strategic-plan.html
+FoundRel: awards_organization.html
+AbsURL: https://www.cs.purdue.edu/about/awards_organization.html
+
+BaseUrl: https://www.cs.purdue.edu/about/awards_organization.html
+FoundRel: history.html
+AbsURL: https://www.cs.purdue.edu/about/history.html
+
+BaseUrl: https://www.cs.purdue.edu/about/history.html
+FoundRel: ../news/videos/index.html
+AbsURL: https://www.cs.purdue.edu/news/videos/index.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: ../Facebook.html
+AbsURL: https://www.cs.purdue.edu/news/Facebook.html
+
+BaseUrl: https://www.cs.purdue.edu/news/Facebook.html
+FoundRel: MeetTiarkRompf.html
+AbsURL: https://www.cs.purdue.edu/news/MeetTiarkRompf.html
+
+BaseUrl: https://www.cs.purdue.edu/news/MeetTiarkRompf.html
+FoundRel: DanGoldwasser.html
+AbsURL: https://www.cs.purdue.edu/news/DanGoldwasser.html
+
+BaseUrl: https://www.cs.purdue.edu/news/DanGoldwasser.html
+FoundRel: MathiasPayer.html
+AbsURL: https://www.cs.purdue.edu/news/MathiasPayer.html
+
+BaseUrl: https://www.cs.purdue.edu/news/MathiasPayer.html
+FoundRel: GraceHopper2014.html
+AbsURL: https://www.cs.purdue.edu/news/GraceHopper2014.html
+
+BaseUrl: https://www.cs.purdue.edu/news/GraceHopper2014.html
+FoundRel: Hackathon2014.html
+AbsURL: https://www.cs.purdue.edu/news/Hackathon2014.html
+
+BaseUrl: https://www.cs.purdue.edu/news/Hackathon2014.html
+FoundRel: Onlinecourse.html
+AbsURL: https://www.cs.purdue.edu/news/Onlinecourse.html
+
+BaseUrl: https://www.cs.purdue.edu/news/Onlinecourse.html
+FoundRel: videos/never-ending-learning.html
+AbsURL: https://www.cs.purdue.edu/news/videos/never-ending-learning.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/never-ending-learning.html
+FoundRel: large-sparse-linear-systems.html
+AbsURL: https://www.cs.purdue.edu/news/videos/large-sparse-linear-systems.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/large-sparse-linear-systems.html
+FoundRel: exponential-change.html
+AbsURL: https://www.cs.purdue.edu/news/videos/exponential-change.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/exponential-change.html
+FoundRel: adventures-cs.html
+AbsURL: https://www.cs.purdue.edu/news/videos/adventures-cs.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/adventures-cs.html
+FoundRel: ../bertino_acm.html
+AbsURL: https://www.cs.purdue.edu/news/bertino_acm.html
+
+BaseUrl: https://www.cs.purdue.edu/news/bertino_acm.html
+FoundRel: SoniaFahmy_UniversityScholar.html
+AbsURL: https://www.cs.purdue.edu/news/SoniaFahmy_UniversityScholar.html
+
+BaseUrl: https://www.cs.purdue.edu/news/SoniaFahmy_UniversityScholar.html
+FoundRel: SoftwareEngineeringTrack.html
+AbsURL: https://www.cs.purdue.edu/news/SoftwareEngineeringTrack.html
+
+BaseUrl: https://www.cs.purdue.edu/news/SoftwareEngineeringTrack.html
+FoundRel: EthanColombanaMemorial.html
+AbsURL: https://www.cs.purdue.edu/news/EthanColombanaMemorial.html
+
+BaseUrl: https://www.cs.purdue.edu/news/EthanColombanaMemorial.html
+FoundRel: TapiaConference.html
+AbsURL: https://www.cs.purdue.edu/news/TapiaConference.html
+
+BaseUrl: https://www.cs.purdue.edu/news/TapiaConference.html
+FoundRel: NAIPC_2015.html
+AbsURL: https://www.cs.purdue.edu/news/NAIPC_2015.html
+
+BaseUrl: https://www.cs.purdue.edu/news/NAIPC_2015.html
+FoundRel: ../hiring/faculty2014.html
+AbsURL: https://www.cs.purdue.edu/hiring/faculty2014.html
+
+BaseUrl: https://www.cs.purdue.edu/hiring/faculty2014.html
+FoundRel: bigdata2014.html
+AbsURL: https://www.cs.purdue.edu/hiring/bigdata2014.html
+
+BaseUrl: https://www.cs.purdue.edu/hiring/bigdata2014.html
+FoundRel: visiting2014.html
+AbsURL: https://www.cs.purdue.edu/hiring/visiting2014.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: the-good-old-days.html
+AbsURL: https://www.cs.purdue.edu/news/videos/the-good-old-days.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: going-non-linear.html
+AbsURL: https://www.cs.purdue.edu/news/videos/going-non-linear.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: analysis-of-algorithms.html
+AbsURL: https://www.cs.purdue.edu/news/videos/analysis-of-algorithms.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: new-directions.html
+AbsURL: https://www.cs.purdue.edu/news/videos/new-directions.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: storage-class-memories.html
+AbsURL: https://www.cs.purdue.edu/news/videos/storage-class-memories.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: introduction-to-cuda.html
+AbsURL: https://www.cs.purdue.edu/news/videos/introduction-to-cuda.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/index.html
+FoundRel: /news/videos/all-videos.html
+AbsURL: https://www.cs.purdue.edu/news/videos/all-videos.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: cuda-5-and-beyond.html
+AbsURL: https://www.cs.purdue.edu/news/videos/cuda-5-and-beyond.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: ultimate-visualization.html
+AbsURL: https://www.cs.purdue.edu/news/videos/ultimate-visualization.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: parallel-and-incremental-computation.html
+AbsURL: https://www.cs.purdue.edu/news/videos/parallel-and-incremental-computation.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: ephemeral-data.html
+AbsURL: https://www.cs.purdue.edu/news/videos/ephemeral-data.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: highly-available-internet.html
+AbsURL: https://www.cs.purdue.edu/news/videos/highly-available-internet.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: programming-the-memory-hierarchy.html
+AbsURL: https://www.cs.purdue.edu/news/videos/programming-the-memory-hierarchy.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: foreseeing-the-unseen.html
+AbsURL: https://www.cs.purdue.edu/news/videos/foreseeing-the-unseen.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: information-theory.html
+AbsURL: https://www.cs.purdue.edu/news/videos/information-theory.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: cognitive-networks.html
+AbsURL: https://www.cs.purdue.edu/news/videos/cognitive-networks.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: program-obfuscation.html
+AbsURL: https://www.cs.purdue.edu/news/videos/program-obfuscation.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: orion-spacecraft-parachutes.html
+AbsURL: https://www.cs.purdue.edu/news/videos/orion-spacecraft-parachutes.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: web-databases.html
+AbsURL: https://www.cs.purdue.edu/news/videos/web-databases.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: in-search-of-impact.html
+AbsURL: https://www.cs.purdue.edu/news/videos/in-search-of-impact.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: wireless-networks.html
+AbsURL: https://www.cs.purdue.edu/news/videos/wireless-networks.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: networks.html
+AbsURL: https://www.cs.purdue.edu/news/videos/networks.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: beauty-and-the-beast.html
+AbsURL: https://www.cs.purdue.edu/news/videos/beauty-and-the-beast.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: new-web.html
+AbsURL: https://www.cs.purdue.edu/news/videos/new-web.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: learning-to-think.html
+AbsURL: https://www.cs.purdue.edu/news/videos/learning-to-think.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: information-theory-and-investment.html
+AbsURL: https://www.cs.purdue.edu/news/videos/information-theory-and-investment.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: model-order-reducation.html
+AbsURL: https://www.cs.purdue.edu/news/videos/model-order-reducation.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: oral-history-program.html
+AbsURL: https://www.cs.purdue.edu/news/videos/oral-history-program.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: personal-reflections.html
+AbsURL: https://www.cs.purdue.edu/news/videos/personal-reflections.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: acm-sidmod.html
+AbsURL: https://www.cs.purdue.edu/news/videos/acm-sidmod.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: a-networked-world.html
+AbsURL: https://www.cs.purdue.edu/news/videos/a-networked-world.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: an-industrial-research-lab.html
+AbsURL: https://www.cs.purdue.edu/news/videos/an-industrial-research-lab.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: software-development.html
+AbsURL: https://www.cs.purdue.edu/news/videos/software-development.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: graph-mining.html
+AbsURL: https://www.cs.purdue.edu/news/videos/graph-mining.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: compilers-multicore.html
+AbsURL: https://www.cs.purdue.edu/news/videos/compilers-multicore.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: pen-mightier.html
+AbsURL: https://www.cs.purdue.edu/news/videos/pen-mightier.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: universal-semantic-communication.html
+AbsURL: https://www.cs.purdue.edu/news/videos/universal-semantic-communication.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: vacuum-tubes-to-plasma.html
+AbsURL: https://www.cs.purdue.edu/news/videos/vacuum-tubes-to-plasma.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: just-like-magic.html
+AbsURL: https://www.cs.purdue.edu/news/videos/just-like-magic.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: leonhard-euler.html
+AbsURL: https://www.cs.purdue.edu/news/videos/leonhard-euler.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: information-theory-probability.html
+AbsURL: https://www.cs.purdue.edu/news/videos/information-theory-probability.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: contracts-asymmetric-information.html
+AbsURL: https://www.cs.purdue.edu/news/videos/contracts-asymmetric-information.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: supercomputers-clusters-grids.html
+AbsURL: https://www.cs.purdue.edu/news/videos/supercomputers-clusters-grids.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: what-is-information.html
+AbsURL: https://www.cs.purdue.edu/news/videos/what-is-information.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: computerized-voting.html
+AbsURL: https://www.cs.purdue.edu/news/videos/computerized-voting.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: logic-of-biological-neworks.html
+AbsURL: https://www.cs.purdue.edu/news/videos/logic-of-biological-neworks.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: new-scheduling-paradigm.html
+AbsURL: https://www.cs.purdue.edu/news/videos/new-scheduling-paradigm.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: information-theory-today.html
+AbsURL: https://www.cs.purdue.edu/news/videos/information-theory-today.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: stable-internet-routing.html
+AbsURL: https://www.cs.purdue.edu/news/videos/stable-internet-routing.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: lapack-scalapack.html
+AbsURL: https://www.cs.purdue.edu/news/videos/lapack-scalapack.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: great-principles-of-computing.html
+AbsURL: https://www.cs.purdue.edu/news/videos/great-principles-of-computing.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: tracks-trackers-tracking.html
+AbsURL: https://www.cs.purdue.edu/news/videos/tracks-trackers-tracking.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: how-to-hurt-scientific-productivity.html
+AbsURL: https://www.cs.purdue.edu/news/videos/how-to-hurt-scientific-productivity.html
+
+BaseUrl: https://www.cs.purdue.edu/news/videos/all-videos.html
+FoundRel: security-of-voting-systems.html
+AbsURL: https://www.cs.purdue.edu/news/videos/security-of-voting-systems.html
+
+BaseUrl: https://www.cs.purdue.edu/about/awards_organization.html
+FoundRel: https://www.cs.purdue.edu/people/faculty/jrr/
+AbsURL: https://www.cs.purdue.edu/people/faculty/jrr/
+
+BaseUrl: https://www.cs.purdue.edu/about/awards_organization.html
+FoundRel: https://www.cs.purdue.edu/people/faculty/sameh/
+AbsURL: https://www.cs.purdue.edu/people/faculty/sameh/
+
+BaseUrl: https://www.cs.purdue.edu/people/faculty/sameh/
+FoundRel: /homes/sameh
+AbsURL: https://www.cs.purdue.edu/homes/sameh/
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/
+FoundRel: http://www.cs.purdue.edu/images/people/sameh.jpg
+AbsURL: https://www.cs.purdue.edu/images/people/sameh.jpg
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/
+FoundRel: /homes/sameh/personal.html
+AbsURL: https://www.cs.purdue.edu/homes/sameh/personal.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/personal.html
+FoundRel: employment.html
+AbsURL: https://www.cs.purdue.edu/homes/sameh/employment.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/personal.html
+FoundRel: contracts.html
+AbsURL: https://www.cs.purdue.edu/homes/sameh/contracts.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/personal.html
+FoundRel: degrees.html
+AbsURL: https://www.cs.purdue.edu/homes/sameh/degrees.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/personal.html
+FoundRel: lectures.html
+AbsURL: https://www.cs.purdue.edu/homes/sameh/lectures.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/sameh/personal.html
+FoundRel: sel_pub.html
+AbsURL: https://www.cs.purdue.edu/homes/sameh/sel_pub.html
+
+BaseUrl: https://www.cs.purdue.edu/about/awards_organization.html
+FoundRel: https://www.cs.purdue.edu/people/faculty/ake/
+AbsURL: https://www.cs.purdue.edu/people/faculty/ake/
+
+BaseUrl: https://www.cs.purdue.edu/people/faculty/ake/
+FoundRel: /homes/ake
+AbsURL: https://www.cs.purdue.edu/homes/ake/
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/
+FoundRel: people.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/people.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/people.html
+FoundRel: index.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/index.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/index.html
+FoundRel: pub.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/pub.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/pub.html
+FoundRel: proj.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/proj.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/proj.html
+FoundRel: cours.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/cours.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/cours.html
+FoundRel: implinks.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/implinks.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/implinks.html
+FoundRel: service.html
+AbsURL: https://www.cs.purdue.edu/homes/ake/service.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/implinks.html
+FoundRel: http://www.cs.purdue.edu/icds
+AbsURL: https://www.cs.purdue.edu/icds
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/cours.html
+FoundRel: http://www.cs.purdue.edu/homes/ake/cs348
+AbsURL: https://www.cs.purdue.edu/homes/ake/cs348
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/proj.html
+FoundRel: http://www.cs.purdue.edu/commugrate
+AbsURL: https://www.cs.purdue.edu/commugrate
+
+BaseUrl: https://www.cs.purdue.edu/commugrate
+FoundRel: http://www.cs.purdue.edu/commugrate/
+AbsURL: https://www.cs.purdue.edu/commugrate/
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/index.html
+FoundRel: http://www.cs.purdue.edu/people/faculty/bertino/
+AbsURL: https://www.cs.purdue.edu/people/faculty/bertino/
+
+BaseUrl: https://www.cs.purdue.edu/people/faculty/bertino/
+FoundRel: /homes/bertino
+AbsURL: https://www.cs.purdue.edu/homes/bertino/
+
+BaseUrl: https://www.cs.purdue.edu/homes/ake/index.html
+FoundRel: http://www.cs.purdue.edu/people/faculty/clifton/
+AbsURL: https://www.cs.purdue.edu/people/faculty/clifton/
+
+BaseUrl: https://www.cs.purdue.edu/people/faculty/clifton/
+FoundRel: /homes/clifton
+AbsURL: https://www.cs.purdue.edu/homes/clifton/
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/
+FoundRel: cv/
+AbsURL: https://www.cs.purdue.edu/homes/clifton/cv/
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cv/
+FoundRel: ../directions.html
+AbsURL: https://www.cs.purdue.edu/homes/clifton/directions.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cv/
+FoundRel: ../cs541
+AbsURL: https://www.cs.purdue.edu/homes/clifton/cs541/
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cs541/
+FoundRel: http://www.cs.purdue.edu/people/clifton/
+AbsURL: https://www.cs.purdue.edu/people/clifton/
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cs541/
+FoundRel: http://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs448.shtml
+AbsURL: https://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs448.shtml
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cs541/
+FoundRel: http://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs251.shtml
+AbsURL: https://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs251.shtml
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cs541/
+FoundRel: http://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs348.shtml
+AbsURL: https://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs348.shtml
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/cs541/
+FoundRel: ../purdue/grading.html
+AbsURL: https://www.cs.purdue.edu/homes/clifton/purdue/grading.html
+
+BaseUrl: https://www.cs.purdue.edu/homes/clifton/purdue/grading.html
+FoundRel: /academic_programs/undergraduate/curriculum/bachelor/
+AbsURL: https://www.cs.purdue.edu/undergraduate/
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/
+FoundRel: codo.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/codo.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/codo.html
+FoundRel: advisors.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/advisors.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/advisors.html
+FoundRel: employment.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/employment.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/employment.html
+FoundRel: student_life.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/student_life.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/student_life.html
+FoundRel: faq.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/faq.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/faq.html
+FoundRel: curriculum/index.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/index.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/index.html
+FoundRel: bachelor.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/bachelor.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/bachelor.html
+FoundRel: minor.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/minor.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/minor.html
+FoundRel: bs-ms.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/bs-ms.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/bs-ms.html
+FoundRel: honors.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/honors.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/honors.html
+FoundRel: co-op.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/co-op.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/co-op.html
+FoundRel: software-engineering.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/software-engineering.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/software-engineering.html
+FoundRel: resources.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/curriculum/resources.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/resources.html
+FoundRel: ../scholarships/index.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/scholarships/index.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/scholarships/index.html
+FoundRel: ../bridge/index.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/bridge/index.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/bridge/index.html
+FoundRel: ../base_undergradute_page.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/base_undergradute_page.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/base_undergradute_page.html
+FoundRel: base_undergradute_page1.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/base_undergradute_page1.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/resources.html
+FoundRel: ../docs/curriculum/plan_of_study.html
+AbsURL: https://www.cs.purdue.edu/undergraduate/docs/curriculum/plan_of_study.html
+
+BaseUrl: https://www.cs.purdue.edu/undergraduate/curriculum/co-op.html
+FoundRel: ../../academic-programs/professional_practice/co-op.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/professional_practice/co-op.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/professional_practice/co-op.html
+FoundRel: ../courses/pending.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/pending.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/pending.html
+FoundRel: upcoming_semesters.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/upcoming_semesters.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/upcoming_semesters.html
+FoundRel: previous_semesters.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/previous_semesters.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/previous_semesters.html
+FoundRel: canonical_syllabi.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/canonical_syllabi.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/canonical_syllabi.html
+FoundRel: registration.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/registration.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/registration.html
+FoundRel: integrity.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/integrity.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/integrity.html
+FoundRel: ../professional_practice/index.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/professional_practice/index.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/professional_practice/index.html
+FoundRel: non-co-op.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/professional_practice/non-co-op.html
+
+BaseUrl: https://www.cs.purdue.edu/academic-programs/courses/canonical_syllabi.html
+FoundRel: canonical/cs180.html
+AbsURL: https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html
+
+BaseUrl: htt
